@@ -1,9 +1,0 @@
-dog
-cat
-parrot
-snake
-frog
-pigeon
-sheep
-cow
-goat
