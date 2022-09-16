@@ -4,3 +4,6 @@ parrot
 snake
 frog
 pigeon
+sheep
+cow
+goat
