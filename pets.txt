@@ -1,0 +1,6 @@
+dog
+cat
+parrot
+snake
+frog
+pigeon
