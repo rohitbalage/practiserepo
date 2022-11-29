@@ -16,7 +16,7 @@ this app was made by Rohit Balage and Harsh Gohil.
 
 ---
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=HY0kBtvFyEY)
+[![Watch the video](https://iili.io/HfJXlI9.png)](https://www.youtube.com/watch?v=HY0kBtvFyEY)
 
 <a href="https://freeimage.host/i/HKsfjHP"><img src="https://iili.io/HKsfjHP.md.png" alt="HKsfjHP.md.png" border="0"></a>
 <a href="https://freeimage.host/i/HKsfWlV"><img src="https://iili.io/HKsfWlV.md.png" alt="HKsfWlV.md.png" border="0"></a>
