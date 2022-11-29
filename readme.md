@@ -16,6 +16,17 @@ this app was made by Rohit Balage and Harsh Gohil.
 
 ---
 
+<h2>TL;DR;</h2>
+
+```html
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
+```
+---
+
 :black_small_square: New heading 1 <br />
 :small_red_triangle: New heading 1 <br />
 :black_small_square: New heading 1 <br />
