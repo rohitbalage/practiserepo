@@ -100,6 +100,54 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 <a href="https://freeimage.host/i/HKsfNOF"><img src="https://iili.io/HKsfNOF.md.png" alt="HKsfNOF.md.png" border="0"></a>
 
 
+
+## ℹ️ How these stats are calculated
+
+This tool uses the contribution graphs on your GitHub profile to calculate which days you have contributed.
+
+To include contributions in private repositories, turn on the setting for "Private contributions" from the dropdown menu above the contribution graph on your profile page.
+
+Contributions include commits, pull requests, and issues that you create in standalone repositories.
+
+The longest streak is the highest number of consecutive days on which you have made at least one contribution.
+
+The current streak is the number of consecutive days ending with the current day on which you have made at least one contribution. If you have made a contribution today, it will be counted towards the current streak, however, if you have not made a contribution today, the streak will only count days before today so that your streak will not be zero.
+
+> **Note**
+> You may need to wait up to 24 hours for new contributions to show up ([Learn how contributions are counted](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile))
+
+## 📤 Deploying it on your own
+
+If you can, it is preferable to host the files on your own server.
+
+Doing this can lead to better uptime and more control over customization (you can modify the code for your usage).
+
+You can deploy the PHP files on any website server with PHP installed or as a Heroku app.
+
+The Inkscape dependency is required for PNG rendering, as well as Segoe UI font for the intended rendering. If using Heroku, the buildpacks will install these for you automatically.
+
+<details>
+  <summary><b>Instructions for Deploying to Heroku for Free</b></summary>
+  
+  ### Step-by-step instructions for deploying to Heroku
+  
+  1. Sign in to **Heroku** or create a new account at <https://heroku.com>
+  2. Visit [this link](https://github.com/settings/tokens/new?description=GitHub%20Readme%20Streak%20Stats) to create a new Personal Access Token (no scopes required)
+  3. Scroll to the bottom and click **"Generate token"**
+  4. Click the Deploy button below
+
+[![](https://user-images.githubusercontent.com/20955511/136058102-b79570bc-4912-4369-b664-064a0ada8588.png)](#) [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DenverCoder1/github-readme-streak-stats/tree/main "Deploy to Heroku")
+
+5. **Add the token** as a Config Var with the key `TOKEN`:
+
+![heroku config variables](https://user-images.githubusercontent.com/20955511/136292022-a8d9b3b5-d7d8-4a5e-a049-8d23b51ce9d7.png)
+
+6. Click **"Deploy App"** at the end of the form
+7. Once the app is deployed, you can use `<your-app-name>.herokuapp.com` in place of `streak-stats.demolab.com`
+
+</details>
+
+
 <br />
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
