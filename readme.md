@@ -90,6 +90,12 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
 
+<br/>
+
+## more emojis here:  https://github.com/devicons/devicon
+
+<br/>
+
 [![Watch the video](https://iili.io/HfJXlI9.png)](https://www.youtube.com/watch?v=HY0kBtvFyEY)
 
 <a href="https://freeimage.host/i/HKsfjHP"><img src="https://iili.io/HKsfjHP.md.png" alt="HKsfjHP.md.png" border="0"></a>
