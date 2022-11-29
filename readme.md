@@ -32,6 +32,14 @@ this app was made by Rohit Balage and Harsh Gohil.
 :black_small_square: New heading 1 <br />
 :black_small_square: New heading 1 <br />
 
+## ⚙ Demo Site
+
+Here you can customize your Streak Stats card with a live preview.
+
+<http://streak-stats.demolab.com/demo/>
+
+[![Demo Site](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif "Demo Site")](http://streak-stats.demolab.com/demo/)
+
 # emoji-cheat-sheet
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
@@ -90,3 +98,10 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 <a href="https://freeimage.host/i/HKsfVKQ"><img src="https://iili.io/HKsfVKQ.md.png" alt="HKsfVKQ.md.png" border="0"></a>
 <a href="https://freeimage.host/i/HKsfwR1"><img src="https://iili.io/HKsfwR1.md.png" alt="HKsfwR1.md.png" border="0"></a>
 <a href="https://freeimage.host/i/HKsfNOF"><img src="https://iili.io/HKsfNOF.md.png" alt="HKsfNOF.md.png" border="0"></a>
+
+
+<br />
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
