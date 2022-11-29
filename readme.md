@@ -16,6 +16,61 @@ this app was made by Rohit Balage and Harsh Gohil.
 
 ---
 
+:black_small_square: New heading 1 <br />
+:small_red_triangle: New heading 1 <br />
+:black_small_square: New heading 1 <br />
+:black_small_square: New heading 1 <br />
+
+# emoji-cheat-sheet
+
+[![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+
+This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+
+## Table of Contents
+
+- [Smileys & Emotion](#smileys--emotion)
+- [People & Body](#people--body)
+- [Animals & Nature](#animals--nature)
+- [Food & Drink](#food--drink)
+- [Travel & Places](#travel--places)
+- [Activities](#activities)
+- [Objects](#objects)
+- [Symbols](#symbols)
+- [Flags](#flags)
+- [GitHub Custom Emoji](#github-custom-emoji)
+
+### Smileys & Emotion
+
+- [Face Smiling](#face-smiling)
+- [Face Affection](#face-affection)
+- [Face Tongue](#face-tongue)
+- [Face Hand](#face-hand)
+- [Face Neutral Skeptical](#face-neutral-skeptical)
+- [Face Sleepy](#face-sleepy)
+- [Face Unwell](#face-unwell)
+- [Face Hat](#face-hat)
+- [Face Glasses](#face-glasses)
+- [Face Concerned](#face-concerned)
+- [Face Negative](#face-negative)
+- [Face Costume](#face-costume)
+- [Cat Face](#cat-face)
+- [Monkey Face](#monkey-face)
+- [Heart](#heart)
+- [Emotion](#emotion)
+
+#### Face Smiling
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :smile: | `:smile:` | :grin: | `:grin:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :laughing: | `:laughing:` <br /> `:satisfied:` | :sweat_smile: | `:sweat_smile:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :rofl: | `:rofl:` | :joy: | `:joy:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :slightly_smiling_face: | `:slightly_smiling_face:` | :upside_down_face: | `:upside_down_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
+
 [![Watch the video](https://iili.io/HfJXlI9.png)](https://www.youtube.com/watch?v=HY0kBtvFyEY)
 
 <a href="https://freeimage.host/i/HKsfjHP"><img src="https://iili.io/HKsfjHP.md.png" alt="HKsfjHP.md.png" border="0"></a>
