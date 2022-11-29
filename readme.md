@@ -92,8 +92,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 <br/>
 
-## more emojis here:  https://github.com/devicons/devicon
-
+## more emojis here:  https://github.com/ikatyang/emoji-cheat-sheet
 <br/>
 
 [![Watch the video](https://iili.io/HfJXlI9.png)](https://www.youtube.com/watch?v=HY0kBtvFyEY)
