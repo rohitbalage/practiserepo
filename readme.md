@@ -5,6 +5,13 @@ The world SALEASE comes from two words that is sales and ease. It is an ecommers
 this app was made by Rohit Balage and Harsh Gohil.
 
 ---
+image with github hosting:
+
+
+![patrick-tomasso-SVVTZtTGyaU-unsplash](https://user-images.githubusercontent.com/35831574/218596896-3696294b-74cd-4b24-ae38-ba5cf0d8e5ea.jpg)
+
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
